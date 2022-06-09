@@ -4,7 +4,7 @@ ESP32-CAM with more IO
 Ce projet est né du manque d'E/S (GPIO) de la carte ESP32-CAM.
 
 La carte est construite autour d'un ESP32 WROVER. Elle est alimentée sous 5V.
-Elle comporte des sorties numériques, des entrées analogiques, une carte microSD et bien sur une caméra (CAMERA_MODEL_AI_THINKER est le seul modèle testé à ce jour).
+Elle comporte des sorties numériques, des entrées analogiques, une carte microSD et bien sur une caméra (CAMERA_MODEL_AI_THINKER est le seul modèle testé à ce jour).  
 Vu le nombre d'E/S nécessaires, tous les périphériques ne sont pas accessibles simultanément.
 Les sorties numériques et les entrées analogiques sont contrôlées par un bus I2C.
 
