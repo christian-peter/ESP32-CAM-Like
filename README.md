@@ -28,4 +28,4 @@ Les schémas et PCB ont été dessinés avec Eagle.
 Le logiciel est développé avec l'IDE arduino.
 
 
-![ESP32-CAM-Like](./pictures/ESP32-CAM-Like.jpg)
+![ESP32-CAM-Like](./picture/ESP32-CAM-Like.jpg)
