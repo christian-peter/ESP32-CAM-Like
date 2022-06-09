@@ -29,3 +29,7 @@ Le logiciel est développé avec l'IDE arduino.
 
 
 ![ESP32-CAM-Like](./picture/ESP32-CAM-Like.jpg)
+
+Le connecteur en haut à droite permet de programmer l'ESP32 avec cet interface :  
+[usb-ftdi232](https://github.com/christian-peter/ruche-connecte/tree/main/usb-ftdi232)  
+mais il tout interface USB/série fera l'affaire.
