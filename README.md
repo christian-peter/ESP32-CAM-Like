@@ -25,7 +25,7 @@ Ces trois premiers canaux sont référencés par rapport à la masse (0V).
 Le 4ème canal est relié au connecteur 'CAN' qui permet une entrée différentielle.  
 
 Les schémas et PCB ont été dessinés avec Eagle.  
-Les résistances coté 'bottom' (carte SD) sont inutiles car elles sont remplacées par des réisitances de 'pullup' internes à l'ESP32. 
+Les résistances coté 'bottom' (carte SD) sont inutiles car elles sont remplacées par des résistances de 'pullup' internes à l'ESP32. 
 Le logiciel est développé avec l'IDE arduino. Les exemples illustrent :
 - l'utilisation de la caméra,
 - l'utilisation du CAN (MPC3428)
