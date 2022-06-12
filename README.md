@@ -42,4 +42,4 @@ N'hésitez pas à partager les logiciels que vous développez, je les rajouterai
 
 Le connecteur en haut à droite permet de programmer l'ESP32 avec cet interface :  
 [usb-ftdi232](https://github.com/christian-peter/ruche-connecte/tree/main/usb-ftdi232)  
-mais il tout interface USB/série fera l'affaire.
+mais tout interface USB/série fera l'affaire.
