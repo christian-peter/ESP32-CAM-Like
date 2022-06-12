@@ -29,7 +29,7 @@ Les résistances coté 'bottom' (carte SD) sont inutiles car elles sont remplac�
 Le logiciel est développé avec l'IDE arduino. Les exemples illustrent :
 - l'utilisation de la caméra,
 - l'utilisation du CAN (MPC3428)
-- l'utilisation de la carte SD.
+- l'utilisation de la carte SD.  
 Les sorties numériques (PCA9685) sont mises en oeuvre dans tous les exemples.
 N'hésitez pas à partager les logiciels que vous développéz, je les rajouteraient sur cette page.
 
