@@ -31,7 +31,7 @@ Les logiciels sont développés avec l'IDE arduino. Les exemples illustrent :
 - l'utilisation de la caméra,
 - l'utilisation du CAN (MPC3428)
 - l'utilisation de la carte SD.  
-Les sorties numériques (PCA9685) sont mises en oeuvre dans tous les exemples.
+Les sorties numériques (PCA9685) sont mises en oeuvre dans tous les exemples.  
 <b>Attention, malheureusement, la caméra ne fonctionne pas lorsqu'une carte carte mémoire est insérée dans le support SD !  </b>
 N'hésitez pas à partager les logiciels que vous développéz, je les rajouterai sur cette page.
 
