@@ -38,7 +38,7 @@ Les sorties numériques (PCA9685) sont mises en oeuvre dans tous les exemples.
 
 N'hésitez pas à partager les logiciels que vous développez, je les rajouterai sur cette page.
 
-![ESP32-CAM-Like](./picture/ESP32-CAM-Likev.jpg)
+![ESP32-CAM-Like](./picture/ESP32-CAM-Like.jpg)
 
 Le connecteur en haut à droite permet de programmer l'ESP32 avec cet interface :  
 [usb-ftdi232](https://github.com/christian-peter/ruche-connecte/tree/main/usb-ftdi232)  
