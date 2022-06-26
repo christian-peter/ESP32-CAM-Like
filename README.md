@@ -36,8 +36,11 @@ Les sorties numériques (PCA9685) sont mises en oeuvre dans tous les exemples.
 
 <b>Attention, malheureusement, la caméra ne fonctionne pas lorsqu'une carte carte mémoire est insérée dans le support SD !  </b>
 
-<b>Par contre</b>, il est possible de relier un module SD SPI sur le connecteur 'SD-SPI' de ce type :
+<b>Par contre</b>, il est possible de relier sur le connecteur 'SD-SPI', un module SD SPIde ce type :
 
+![SD_SPI](./picture/SD_SPI.jpg)
+
+Celui ci ne bloque pas la caméra. Toutefois, je n'ai pas tester le fonctionnement de ce module SPI pour l'instant. 
 
 N'hésitez pas à partager les logiciels que vous développez, je les rajouterai sur cette page.
 
