@@ -40,7 +40,7 @@ Les sorties numériques (PCA9685) sont mises en oeuvre dans tous les exemples.
 
 ![SD_SPI](./picture/SD_SPI.jpg)
 
-Celui ci ne bloque pas la caméra. Toutefois, je n'ai pas tester le fonctionnement de ce module SPI pour l'instant. 
+Celui ci ne bloque pas la caméra. Toutefois, je n'ai pas testé le fonctionnement de ce module SPI pour l'instant. 
 
 N'hésitez pas à partager les logiciels que vous développez, je les rajouterai sur cette page.
 
