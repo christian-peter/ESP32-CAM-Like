@@ -1,6 +1,9 @@
 # ESP32-CAM-Like
 ESP32-CAM with more IO
 
+<b>Projet abandonné pour caused de difficultés de soudure du connecteur de caméra.
+Toutefois, le proto est fonctionnel.</b>
+
 Ce projet est né du manque d'E/S (GPIO) de la carte ESP32-CAM.
 
 La carte est construite autour d'un ESP32 WROVER. Elle est alimentée sous 5V.
